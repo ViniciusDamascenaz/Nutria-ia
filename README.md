@@ -2,6 +2,8 @@
 
 **Nutria** é um SaaS inteligente que gera dietas personalizadas com base nos dados, objetivos e preferências alimentares dos usuários. Utilizamos inteligência artificial para tornar o planejamento alimentar mais acessível, eficiente e saudável.
 
+Acesse o site aqui![nutria-ia.vercel.app]
+
 ## 🚀 Funcionalidades
 
 - ✅ Geração de dietas personalizadas com IA
