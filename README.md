@@ -23,6 +23,6 @@
 
 - **Frontend:** React + TailwindCSS
 - **Backend:** Node.js / Express 
-- **IA:** Groq API com LLaMA 3
+- **IA:** API OpenAI
 - **Hospedagem:** vercel
 
